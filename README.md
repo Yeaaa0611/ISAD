@@ -91,7 +91,7 @@ git diff --check
 | 何梓萱 | — |
 | 胡佳宁 | — |
 | 董润叶 | — |
-| 王晨雨 | — |
+| 王晨雨 | Y_eaaa0611 |
 | 曹蕊 |[ruiruirui0719](https://github.com/ruiruirui0719) |
 | 高梓涵 | — |
 | 顾问 | [huitoukanmenkou](https://github.com/huitoukanmenkou) |
